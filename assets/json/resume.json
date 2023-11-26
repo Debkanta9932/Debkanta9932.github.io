@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Somnath Pandit",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A Bengalii-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -150,7 +150,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Bengalii",
       "fluency": "Native speaker"
       "icon":""
     },

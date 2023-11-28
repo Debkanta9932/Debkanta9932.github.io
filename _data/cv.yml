@@ -4,26 +4,34 @@
     - name: Full Name
       value: Somnath Pandit
     - name: Date of Birth
-      value: May 1999
+      value: 1999
     - name: Languages
-      value: English, Bengali
+      value: Bengali, English, Hindi
 
 - title: Education
   type: time_table
   contents:
     - title: Research Scholar
-      institution: Indian Institute of Technology Kharagpur, Kharagpur, India
+      institution: Indian Institute of Technology Kharagpur, Kharagpur, India.
       year: 2023 - present
       description:
-        - Photonics.
         - Photonic Sensors.
         #- title: Description 3.
         #  contents:
         #    - Sub-description 1.
         #    - Sub-description 2.
     - title: M.Sc. Physics
-      institution: Indian Institute of Technology Kharagpur, Kharagpur, India
+      institution: Indian Institute of Technology Kharagpur, Kharagpur, India.
       year: 2022
+      description:
+        - title: Project - 'Study of One Dimensional Photonic Structures and Transfer Matrix Computation'.
+          contents:
+            - Coding in Python and MATLAB to analyze one-dimensional photonic crystals (PhC) with microcavity modes and Tamm modes.
+            - Fabrication of photonic crystals with dip-coating by the sol-gel synthesis method and characterization.
+
+    - title: B.Sc. Physics
+      institution: Ramakrishna Mission Vivekananda Centenary College, Rahara, Kolkata.
+      year: 2020
       description:
        # - Description 1.
        # - Description 2.
@@ -32,15 +40,32 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Indian Institute of Technology Kharagpur, Kharagpur, India
-      year: 2022
+      institution: Photonics Systems Lab, IIT Kharagpur, India
+      year: July 2022 -<br /> April 2023
       description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
+        - Photonic crystal Tamm laser experiment.
+        - Fabrication of waveguides using UV photolithography.
+        - Interferometric setup to measure the flatness of reflecting surfaces by analyzing the fringe pattern.
+        - title: Picosecond laser writing setup.
+          contents:
+            - With 20X objective lens < 1 µm structures on silicon, patterns at different depths in transparent polymers.
+            - Reducing threshold with electric field confinement techniques.
+
+    - title: Summer Intern
+      institution:  Department of Physics, IIT Kharagpur, India
+      year: June 2022 -<br /> July 2022
+      description:
+        - Study of waveguiding in 1D photonic crystals and Tamm states.        
+
+    - title: FOSSEE Summer Fellow
+      institution: FOSSEE, IIT Bombay, India
+      year: July 2022 -<br /> April 2023
+      description:
+        - title: Mathematics with Python.
+          contents:
+            - Created lucid notes on Integrals of Multivariable Functions.
+            - Illustrations with animations generated with python MANIM library.
+            - Find at  <a href="https://fossee.in/fellowship/2020">https://fossee.in/fellowship/2020</a>
 #    - title: Visiting Professor
 #      institution: California Institute of Technology, Pasadena, California, US
 #      year: 1933
@@ -68,30 +93,33 @@
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Awards and Achievements
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - NET(UGC) qualified.
+        - GATE Physics qualified, Score-841, AIR-18.
+    - year: 2017 - 2022
       items: 
-        - Max Planck Medal
+        - Inspire Scholarship.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Photonics.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Photonic crystals.
+        - Photonic sensors - medical, environmental, agricultural application.
+        - Photonic integrated circuits.
+    - title: Quantum Optics.
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - quantum dots.
+        - Photonic quantum systems.
+        - quantum information processing.
+#
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#

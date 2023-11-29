@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Scholar @<a href='https://www.iitkgp.ac.in'>IIT Kharagpur</a> | School of Nanoscience and Technology. 
 

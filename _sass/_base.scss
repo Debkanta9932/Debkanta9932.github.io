@@ -176,6 +176,21 @@ blockquote {
   }
 }
 
+.profile {
+  width: 100%;
+
+  .caption {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: smaller;
+
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+}
+
 .profile.float-right {
   margin-left: 1rem;
 }

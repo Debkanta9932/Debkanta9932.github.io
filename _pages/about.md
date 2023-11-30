@@ -9,7 +9,8 @@ profile:
   image: myphoto.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>RS, SNST</p>
+    <p>panditsomnath@kgpian.iitkgp.ac.in</p>
     <p>Indian Institute of Technology Kharagpur,</p>
     <p>Kharagpur, India - 721302</p>
 
@@ -19,8 +20,9 @@ selected_papers: false #true # includes a list of papers marked as "selected={tr
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `myphoto.jpg` and put it in the `img/` folder.
+Welcome to my page. I am currently working in School of Nanoscience and Technology at IIT Kharagpur as a Prime Minister's Research Fellow. My field of work is `optics and photonics`.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+More than being fascinated by the underlying laws of the universe and the challenge of understanding it, the history of science and how it has shaped human civilization overwhelms me.
+I got attracted to the field of photonics during my higher studies for its potential to handle the exponential demand for computing power, its promise of new-age sensing technologies, and its opportunity to test the theories of physics itself.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current work is on development of ultrasensitive sensors based on [photonic-crystal](http://ab-initio.mit.edu/book/) platform mainly for healthcare, agricultural, environmental applications.

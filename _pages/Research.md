@@ -16,12 +16,10 @@ profiles:
     caption: > 
       <p>Bloch Surface Waves and Internal Optical Modes-Driven Photonic Crystal-Coupled Emission Platform for Femtomolar Detection of Aluminum Ions.
       (Source: J. Phys. Chem. C 2020, 124, 13, 7341-7352)</p>
-#  - align: left
-#    image: prof_pic.jpg
-#    content: about_einstein.md
-#    image_circular: false # crops the image to make it circular
-#    more_info: >
-#      <p>555 your office number</p>
-#      <p>123 your address street</p>
-#      <p>Your City, State 12345</p>
+  - align: left
+    image: pe_powers_nonlinear_optics_bookmatter.jpg
+    content: quantum_research.md
+    image_circular: false # crops the image to make it circular
+    caption: >
+      <p>Nonlinear process of different frequency generation. (Source: Coverpage, Fundamentals of Nonlinear Optics By Peter E. Powers, Joseph W. Haus)</p>
 ---

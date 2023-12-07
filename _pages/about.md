@@ -6,13 +6,13 @@ subtitle: Research Scholar | PMRF | @<a href='https://www.iitkgp.ac.in'>IIT Khar
 
 profile:
   align: right
-  image: myphoto.jpeg
+  image: photo2_crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>RS, SNST</p>
-    <p>panditsomnath@kgpian.iitkgp.ac.in</p>
-    <p>Indian Institute of Technology Kharagpur,</p>
-    <p>Kharagpur, India - 721302</p>
+    <p>Prime Minister's Resesearch Fellow,</p>
+    <p>Photonic Sensors,</p>
+    <p>Kharagpur,</p>
+    <p>India - 721302</p>
 
 news: false #true  # includes a list of news items
 latest_posts: false #true  # includes a list of the newest posts

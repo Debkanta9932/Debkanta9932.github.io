@@ -1,21 +1,28 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Somnath Pandit
-    - name: Date of Birth
+    - name: Birth Year
       value: 1999
     - name: Languages
       value: Bengali, English, Hindi
+
+- title: Research Interest
+  type: 
+  contents:
+      - Photonic sensors, Photonic crystal, Bloch Surface Wave sensing.
 
 - title: Education
   type: time_table
   contents:
     - title: Research Scholar
-      institution: Indian Institute of Technology Kharagpur, Kharagpur, India.
+      institution: Indian Institute of Technology Kharagpur, Kharagpur - 721302, India.
       year: 2023 - present
       description:
-        - Photonic Sensors.
+        - <b>Research Area :</b> Photonic Sensors.
+        - <b>Supervisor :</b> Dr. Shivakiran Bhaktha B. N., Associate Professor, Department of Physics, IIT Kharagpur.
+        - <b>Joint Supervisor :</b> Prof. Prasanta Kumar Guha, Professor, E& ECE Department, IIT Kharagpur.
         #- title: Description 3.
         #  contents:
         #    - Sub-description 1.
@@ -24,10 +31,8 @@
       institution: Indian Institute of Technology Kharagpur, Kharagpur, India.
       year: 2022
       description:
-        - title: Project - 'Study of One Dimensional Photonic Structures and Transfer Matrix Computation'.
-          contents:
-            - Coding in Python and MATLAB to analyze one-dimensional photonic crystals (PhC) with microcavity modes and Tamm modes.
-            - Fabrication of photonic crystals with dip-coating by the sol-gel synthesis method and characterization.
+        - <b>Project :</b> Study of One Dimensional Photonic Structures and Transfer Matrix Computation.
+          
 
     - title: B.Sc. Physics
       institution: Ramakrishna Mission Vivekananda Centenary College, Rahara, Kolkata.
@@ -43,13 +48,7 @@
       institution: Photonics Systems Lab, IIT Kharagpur, India
       year: July 2022 -<br /> April 2023
       description:
-        - Photonic crystal Tamm laser experiment.
-        - Fabrication of waveguides using UV photolithography.
-        - Interferometric setup to measure the flatness of reflecting surfaces by analyzing the fringe pattern.
-        - title: Picosecond laser writing setup.
-          contents:
-            - With 20X objective lens < 1 µm structures on silicon, patterns at different depths in transparent polymers.
-            - Reducing threshold with electric field confinement techniques.
+        - Worked on picosecond laser writing, photonic crystal Tamm laser, interferometric surface profiler, waveguides.
 
     - title: Summer Intern
       institution:  Department of Physics, IIT Kharagpur, India
@@ -61,11 +60,8 @@
       institution: FOSSEE, IIT Bombay, India
       year: July 2022 -<br /> April 2023
       description:
-        - title: Mathematics with Python.
-          contents:
-            - Created lucid notes on Integrals of Multivariable Functions.
-            - Illustrations with animations generated with python MANIM library.
-            - Find at  <a href="https://static.fossee.in/fossee/fellowship2020/Fellowship-Reports/Mathematics-using-Python/MathematicsUsingPython-SomnathPandit-FSF-2020.pdf">fossee-fellowship-2020-somnath-pandit-report</a>
+        - Mathematics with Python. Work is available at <a href="https://fossee.in/fellowship/2020">https://fossee.in/fellowship/2020</a>
+
 #    - title: Visiting Professor
 #      institution: California Institute of Technology, Pasadena, California, US
 #      year: 1933
@@ -103,7 +99,7 @@
         - GATE Physics qualified, Score-841, AIR-18.
     - year: 2017 - 2022
       items: 
-        - Inspire Scholarship.
+        - DST Inspire Scholarship.
 
 - title: Academic Interests
   type: nested_list
